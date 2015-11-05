@@ -215,6 +215,7 @@ h1 {
   overflow: visible;
 }
 .carousel-caption {
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   position: absolute;
   top: 100px;
   left: 0;
@@ -223,6 +224,7 @@ h1 {
   text-align: left;
 }
 .carousel-caption {
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   position: absolute;
   top: 100px;
   left: 0;
@@ -242,10 +244,11 @@ h1 {
   padding-right: 60px;
 }
 .carousel-caption h1 {
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   font-weight: 700;
   font-size: 38px;
   text-transform: uppercase;
-  text-shadow: none;
+//  text-shadow: none;
   letter-spacing: -1.5px;
 }
 .carousel-caption p {
