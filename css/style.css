@@ -93,6 +93,7 @@ text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   color: #fff;
   border-top: 6px solid #1ab394;
 }
+
 .navbar-default .navbar-nav > li > a:hover {
   color: #1ab394;
 }
@@ -123,7 +124,7 @@ text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 
 }
 .navbar-scroll.navbar-default .nav li a {
-  color: #676a6c;
+  color: #ff7400;
 }
 .navbar-scroll.navbar-default .nav li a:hover {
   color: #1ab394;
@@ -492,7 +493,7 @@ fieldset[disabled] .btn-primary.active {
     color: inherit;
   }
   .navbar-default .nav li a {
-    color: #676a6c;
+    color: #ff7400;
   }
   .navbar-default .nav li a:hover {
     color: #1ab394;
