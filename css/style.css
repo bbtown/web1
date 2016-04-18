@@ -153,7 +153,7 @@ text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 /* BACKGROUNDS SLIDER
 -------------------------------------------------- */
 .header-back {
-  height: 470px;
+  height: 270px;
   width: 100%;
 }
 .header-back.one {
@@ -246,6 +246,7 @@ text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   position: absolute;
   right: 10px;
   top: 150px;
+  height: 270px;
 }
 .carousel-indicators {
   padding-right: 60px;
@@ -489,8 +490,10 @@ fieldset[disabled] .btn-primary.active {
     padding: 15px 0;
   }
   .navbar-default .navbar-nav > .active > a:focus {
-    background: transparent;
-    color: inherit;
+//    background: transparent;
+    background: black;
+//    color: inherit;
+    color: black;
   }
   .navbar-default .nav li a {
     color: #ff7400;
